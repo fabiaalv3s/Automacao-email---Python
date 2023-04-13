@@ -1,1 +1,1 @@
-# Automacao de email com Python
+## Automacao de envio de email com Python
